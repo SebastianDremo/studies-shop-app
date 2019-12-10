@@ -29,3 +29,6 @@ out/
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea
+
+.tomorrow-theme-master
